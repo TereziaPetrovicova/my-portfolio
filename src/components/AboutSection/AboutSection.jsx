@@ -11,19 +11,21 @@ function AboutSection() {
         <div className="about-content">
           <h1>About me</h1>
           <p>
-            As a software developer, my goal is to create applications that are
-            not only functional, reliable, and secure but also aesthetically
-            appealing.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+            eiusmod tempor incididunt ut labore et dolore magna aliqua. Cras
+            fermentum odio eu feugiat.
           </p>
           <p>
-            I prioritize responsive design and intuitive interfaces, with a
-            strong focus on delivering an outstanding user experience.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+            eiusmod tempor incididunt ut labore et dolore magna aliqua.
           </p>
           <p>
-            My journey in this field is driven by a continuous quest to enhance
-            my skills. Whether tackling small projects or navigating complex
-            challenges, I am dedicated to broadening my expertise across various
-            development domains.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+            eiusmod tempor incididunt ut labore et dolore magna aliqua. Cras
+            fermentum odio eu feugiat. Eget nulla facilisi etiam dignissim.
+            Felis imperdiet proin fermentum leo vel orci porta non pulvinar. Ut
+            sem nulla pharetra diam sit amet nisl suscipit. Egestas integer eget
+            aliquet nibh praesent.
           </p>
         </div>
         <a
